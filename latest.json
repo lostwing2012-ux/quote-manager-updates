@@ -1,8 +1,8 @@
 {
-  "version": "20260724-025148",
-  "published_at": "2026-07-23T18:55:37.6275504Z",
-  "release_notes": "修复更新按钮可见性，新增下载进度条，修复 Windows 自动覆盖与重启；解析规则保持 published-rules-v49。",
-  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260724-025148/OKGift-Quote-Manager-Portable-20260724-025148.zip",
-  "sha256": "92fb252d550f8ffb0af94ec756d9eab033e5974fc8cfc41e99c02f2d0219266b",
-  "size": 31221088
+  "version": "20260727-072523",
+  "published_at": "2026-07-26T23:28:56.1531254Z",
+  "release_notes": "统一同步 OKGift 网站与 CardOps；设置中心新增 CardOps 签名配置；更新完整教程、注意事项和 OpenAPI。",
+  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260727-072523/OKGift-Quote-Manager-Portable-20260727-072523.zip",
+  "sha256": "0d94d689667112fc847da9440cf77dd1ae0334b2767963b737ac0782bbef09ea",
+  "size": 31233386
 }
