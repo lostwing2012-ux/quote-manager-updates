@@ -1,8 +1,1 @@
-{
-  "version": "20260727-072523",
-  "published_at": "2026-07-26T23:28:56.1531254Z",
-  "release_notes": "统一同步 OKGift 网站与 CardOps；设置中心新增 CardOps 签名配置；更新完整教程、注意事项和 OpenAPI。",
-  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260727-072523/OKGift-Quote-Manager-Portable-20260727-072523.zip",
-  "sha256": "0d94d689667112fc847da9440cf77dd1ae0334b2767963b737ac0782bbef09ea",
-  "size": 31233386
-}
+{"version":"20260728-053703","published_at":"2026-07-27T22:07:55.5049599Z","release_notes":"统一 OKGift 网站、团队与 CardOps 同步令牌；修复团队同步；更新设置说明、API 文档和完整教程。","download_url":"https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260728-053703/OKGift-Quote-Manager-Portable-20260728-053703.zip","sha256":"637d2eafc7f61de845119f2de4a4579ddf0571c39735986bb24522899157fcec","size":31232808}
