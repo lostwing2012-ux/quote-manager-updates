@@ -1,8 +1,8 @@
 {
-  "version": "20260729-014225",
-  "published_at": "2026-07-28T17:44:55.4419203Z",
-  "release_notes": "修复 AI 未解析内容合并、完善报价解析规则，并提高自动更新稳定性。",
-  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260729-014225/Quote-Manager-Portable-20260729-014225.zip",
-  "sha256": "b270ddd7184c8a66c53ef0dc0a0e1a306ad7c0f5287f41a1bd64c17c2b1d65e8",
-  "size": 31234472
+  "version": "20260729-014747",
+  "published_at": "2026-07-28T17:49:52.9832865Z",
+  "release_notes": "修复 AI 未解析内容合并、完善报价解析规则，并改用最新 Release 清单提高自动更新可靠性。",
+  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260729-014747/Quote-Manager-Portable-20260729-014747.zip",
+  "sha256": "b64d36e0060f95d5e7af22c52f10a4858ef32dd65cfd5d6be6b326fa880d8d70",
+  "size": 31234949
 }
