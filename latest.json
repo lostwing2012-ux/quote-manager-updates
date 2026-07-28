@@ -1,1 +1,8 @@
-{"version":"20260728-053703","published_at":"2026-07-27T22:56:32.0944706Z","release_notes":"统一网站、团队与 CardOps 同步令牌；修复团队同步；更新设置说明、API 文档和完整教程。","download_url":"https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260728-053703/Quote-Manager-Portable-20260728-053703.zip","sha256":"637d2eafc7f61de845119f2de4a4579ddf0571c39735986bb24522899157fcec","size":31232808}
+{
+  "version": "20260729-014225",
+  "published_at": "2026-07-28T17:44:55.4419203Z",
+  "release_notes": "修复 AI 未解析内容合并、完善报价解析规则，并提高自动更新稳定性。",
+  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260729-014225/Quote-Manager-Portable-20260729-014225.zip",
+  "sha256": "b270ddd7184c8a66c53ef0dc0a0e1a306ad7c0f5287f41a1bd64c17c2b1d65e8",
+  "size": 31234472
+}
