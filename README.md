@@ -1,6 +1,6 @@
-# OKGift Quote Manager Updates
+# Quote Manager Updates
 
-这是 OKGift 报价管理器的官方二进制更新通道。
+这是报价管理器的官方二进制更新通道。
 
 ## 仓库范围
 
