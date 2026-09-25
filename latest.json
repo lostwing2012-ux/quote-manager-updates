@@ -1,8 +1,8 @@
 {
-  "version": "20260729-014747",
-  "published_at": "2026-07-28T17:49:52.9832865Z",
-  "release_notes": "修复 AI 未解析内容合并、完善报价解析规则，并改用最新 Release 清单提高自动更新可靠性。",
-  "download_url": "https://github.com/lostwing2012-ux/okgift-quote-manager-updates/releases/download/v20260729-014747/Quote-Manager-Portable-20260729-014747.zip",
-  "sha256": "b64d36e0060f95d5e7af22c52f10a4858ef32dd65cfd5d6be6b326fa880d8d70",
-  "size": 31234949
+  "version": "20260926-062550",
+  "published_at": "2026-09-25T22:28:48Z",
+  "release_notes": "Move automatic updates to the renamed Quote Manager update channel. Remember poster face values by project and country selection. Preserve existing preferences and runtime data. Back up data before upgrading.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260926-062550/Quote-Manager-Portable-20260926-062550.zip",
+  "sha256": "4e8f4717e73b7ee6115044de968242085a5eea20d95095d176b49be6a2517933",
+  "size": 69170771
 }
