@@ -1,8 +1,8 @@
 {
-  "version": "20260926-062550",
-  "published_at": "2026-09-25T22:28:48Z",
-  "release_notes": "Move automatic updates to the renamed Quote Manager update channel. Remember poster face values by project and country selection. Preserve existing preferences and runtime data. Back up data before upgrading.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260926-062550/Quote-Manager-Portable-20260926-062550.zip",
-  "sha256": "4e8f4717e73b7ee6115044de968242085a5eea20d95095d176b49be6a2517933",
-  "size": 69170771
+  "version": "20260926-080118",
+  "published_at": "2026-09-26T00:16:26Z",
+  "release_notes": "Normalize duplicate gift-card code labels across supported projects. Preserve payment channels, quote evidence, and pricing conflict checks.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260926-080118/Quote-Manager-Portable-20260926-080118.zip",
+  "sha256": "f9a5546e96ae2103090a268c599c724959f66f68083942ffba2698c15f8a3696",
+  "size": 69176658
 }
