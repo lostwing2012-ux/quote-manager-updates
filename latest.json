@@ -1,8 +1,8 @@
 {
-  "version": "20260927-042942",
-  "published_at": "2026-09-26T20:49:37Z",
-  "release_notes": "Persistent disabled and stopped quote visibility across current lists, customer posters and the accounting system. Explicit full-state synchronization supports stopping all quotes without deleting history. Clarified image-and-code card handling and updated operating guide.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260927-042942/Quote-Manager-Portable-20260927-042942.zip",
-  "sha256": "ab39560d6c2a0afab7106bfce1124e473fc386c426a8838c41b11041518670cb",
-  "size": 69188801
+  "version": "20260929-001919",
+  "published_at": "2026-09-28T16:26:43Z",
+  "release_notes": "Add protected local history deletion with selection, password confirmation and trend refresh. Improve Apple quote parsing, Steam quote basis, disabled-quote compatibility, poster selection and supported country mapping.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260929-001919/Quote-Manager-Portable-20260929-001919.zip",
+  "sha256": "1655fb694394b1479e5def95468a33f43eaed04f327fe39e364eace590cd93a0",
+  "size": 69205673
 }
