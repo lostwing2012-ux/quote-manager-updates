@@ -1,8 +1,8 @@
 {
-  "version": "20260929-001919",
-  "published_at": "2026-09-28T16:26:43Z",
-  "release_notes": "Add protected local history deletion with selection, password confirmation and trend refresh. Improve Apple quote parsing, Steam quote basis, disabled-quote compatibility, poster selection and supported country mapping.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20260929-001919/Quote-Manager-Portable-20260929-001919.zip",
-  "sha256": "1655fb694394b1479e5def95468a33f43eaed04f327fe39e364eace590cd93a0",
-  "size": 69205673
+  "version": "20261001-054836",
+  "published_at": "2026-09-30T22:12:46Z",
+  "release_notes": "Improve published quote refresh and Beijing time display; fix per-currency quote consistency and poster source timestamps; include verified parser corrections and safer manual-review handling.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261001-054836/Quote-Manager-Portable-20261001-054836.zip",
+  "sha256": "2f797eaaa841d2552df5422f59c868882dc51474afe7e60fd5e490031a992737",
+  "size": 69232299
 }
