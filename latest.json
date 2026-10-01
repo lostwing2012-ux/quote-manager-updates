@@ -1,8 +1,8 @@
 {
-  "version": "20261002-030405",
-  "published_at": "2026-10-01T19:09:23Z",
-  "release_notes": "Improve direct quote search responsiveness, background refresh and filter handling; complete Apple multi-country headings and physical/code expansion; update parser and review guidance.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261002-030405/Quote-Manager-Portable-20261002-030405.zip",
-  "sha256": "cd1b04bf50a97bf599dc17ce410b4a09b34e497dfc9bc52062abfa3e26083a05",
-  "size": 69236802
+  "version": "20261002-062042",
+  "published_at": "2026-10-01T22:26:02Z",
+  "release_notes": "Parser accuracy improvements for card denominations, explicit multiples, shared image/code prices and manual-review conditions. Verified US Apple 50 import, publication and search. Updated parser guidance and user documentation.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261002-062042/Quote-Manager-Portable-20261002-062042.zip",
+  "sha256": "c8c907ea22c0b0de3ff4a98351e3e64f1b1fb28312bf42dc242b4050f195c58e",
+  "size": 69242378
 }
