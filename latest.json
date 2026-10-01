@@ -1,8 +1,8 @@
 {
-  "version": "20261001-054836",
-  "published_at": "2026-09-30T22:12:46Z",
-  "release_notes": "Improve published quote refresh and Beijing time display; fix per-currency quote consistency and poster source timestamps; include verified parser corrections and safer manual-review handling.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261001-054836/Quote-Manager-Portable-20261001-054836.zip",
-  "sha256": "2f797eaaa841d2552df5422f59c868882dc51474afe7e60fd5e490031a992737",
-  "size": 69232299
+  "version": "20261002-030405",
+  "published_at": "2026-10-01T19:09:23Z",
+  "release_notes": "Improve direct quote search responsiveness, background refresh and filter handling; complete Apple multi-country headings and physical/code expansion; update parser and review guidance.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261002-030405/Quote-Manager-Portable-20261002-030405.zip",
+  "sha256": "cd1b04bf50a97bf599dc17ce410b4a09b34e497dfc9bc52062abfa3e26083a05",
+  "size": 69236802
 }
