@@ -1,8 +1,8 @@
 {
-  "version": "20261002-071654",
-  "published_at": "2026-10-01T23:42:41Z",
-  "release_notes": "Fix supplier-specific quote disabling and restore only newly reparsed quotes after review and publication. Preserve other suppliers, history, and update data.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261002-071654/Quote-Manager-Portable-20261002-071654.zip",
-  "sha256": "6d6c2feb97b8cddc82e09e67aa3bb08ead557868e6fbc5160f3ddd29f8492b7f",
-  "size": 69252982
+  "version": "20261003-230852",
+  "published_at": "2026-10-03T15:50:03Z",
+  "release_notes": "Merge duplicate quote search options with identical terms and rates while retaining supplier choices and independent quote states.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261003-230852/Quote-Manager-Portable-20261003-230852.zip",
+  "sha256": "9a6c1985893769c957b66eb755eed7e14dc061ff85cf60c7abce72a945807e7b",
+  "size": 69252101
 }
