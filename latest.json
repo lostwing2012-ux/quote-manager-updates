@@ -1,8 +1,8 @@
 {
-  "version": "20261015-043318",
-  "published_at": "2026-10-14T20:37:52Z",
-  "release_notes": "Filter countries and transfer methods by brand across manual quotes, corrections and pricing rules. Preserve historical records and improve mobile selection controls.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-043318/Quote-Manager-Portable-20261015-043318.zip",
-  "sha256": "6759be1ec95368ef6b085ca74aa1629ef3a0c5c3c981af818e4d7cb67951c116",
-  "size": 69259586
+  "version": "20261015-051632",
+  "published_at": "2026-10-14T21:20:18Z",
+  "release_notes": "Constrain supported countries and card formats by business brand. Keep supported choices available without active quotes. Preserve historical records and quote-specific conditions. Stabilize concurrent database reads.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-051632/Quote-Manager-Portable-20261015-051632.zip",
+  "sha256": "af50942b4d798515d6ddb2f908ea90776af4f6c48405379ed46c379bdd28ebd9",
+  "size": 69259647
 }
