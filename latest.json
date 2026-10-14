@@ -1,8 +1,8 @@
 {
-  "version": "20261015-051632",
-  "published_at": "2026-10-14T21:20:18Z",
-  "release_notes": "Constrain supported countries and card formats by business brand. Keep supported choices available without active quotes. Preserve historical records and quote-specific conditions. Stabilize concurrent database reads.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-051632/Quote-Manager-Portable-20261015-051632.zip",
-  "sha256": "af50942b4d798515d6ddb2f908ea90776af4f6c48405379ed46c379bdd28ebd9",
-  "size": 69259647
+  "version": "20261015-054624",
+  "published_at": "2026-10-14T21:50:02Z",
+  "release_notes": "Add bidirectional business catalog synchronization, automatically expand supported countries from the connected system, preserve disabled entries and asset identity, and show reviewable catalog conflicts. Includes new-project manual entry compatibility.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-054624/Quote-Manager-Portable-20261015-054624.zip",
+  "sha256": "da112d750552d54d6a9bbb32c97ebea7e6153274858aebee1a4d1588d365227e",
+  "size": 69281721
 }
