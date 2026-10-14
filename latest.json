@@ -1,8 +1,8 @@
 {
-  "version": "20261003-230852",
-  "published_at": "2026-10-03T15:50:03Z",
-  "release_notes": "Merge duplicate quote search options with identical terms and rates while retaining supplier choices and independent quote states.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261003-230852/Quote-Manager-Portable-20261003-230852.zip",
-  "sha256": "9a6c1985893769c957b66eb755eed7e14dc061ff85cf60c7abce72a945807e7b",
-  "size": 69252101
+  "version": "20261015-043318",
+  "published_at": "2026-10-14T20:37:52Z",
+  "release_notes": "Filter countries and transfer methods by brand across manual quotes, corrections and pricing rules. Preserve historical records and improve mobile selection controls.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-043318/Quote-Manager-Portable-20261015-043318.zip",
+  "sha256": "6759be1ec95368ef6b085ca74aa1629ef3a0c5c3c981af818e4d7cb67951c116",
+  "size": 69259586
 }
