@@ -1,8 +1,8 @@
 {
-  "version": "20261015-054624",
-  "published_at": "2026-10-14T21:50:02Z",
-  "release_notes": "Add bidirectional business catalog synchronization, automatically expand supported countries from the connected system, preserve disabled entries and asset identity, and show reviewable catalog conflicts. Includes new-project manual entry compatibility.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-054624/Quote-Manager-Portable-20261015-054624.zip",
-  "sha256": "da112d750552d54d6a9bbb32c97ebea7e6153274858aebee1a4d1588d365227e",
-  "size": 69281721
+  "version": "20261015-063547",
+  "published_at": "2026-10-14T22:38:28Z",
+  "release_notes": "Retain confirmed Chime wallet-transfer and PayPal GNS channels. Exclude three confirmed misattached catalog types while preserving historical records and source evidence. Keep upgraded catalogs and connected-system metadata consistent.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-063547/Quote-Manager-Portable-20261015-063547.zip",
+  "sha256": "e7fb94fc7daa87c63062487efd654433b01ed480d3647cdc73c0e0c220c4eb77",
+  "size": 69283110
 }
