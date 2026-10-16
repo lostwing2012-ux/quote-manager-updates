@@ -1,8 +1,8 @@
 {
-  "version": "20261015-063547",
-  "published_at": "2026-10-14T22:38:28Z",
-  "release_notes": "Retain confirmed Chime wallet-transfer and PayPal GNS channels. Exclude three confirmed misattached catalog types while preserving historical records and source evidence. Keep upgraded catalogs and connected-system metadata consistent.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261015-063547/Quote-Manager-Portable-20261015-063547.zip",
-  "sha256": "e7fb94fc7daa87c63062487efd654433b01ed480d3647cdc73c0e0c220c4eb77",
-  "size": 69283110
+  "version": "20261016-093750",
+  "published_at": "2026-10-16T01:40:20Z",
+  "release_notes": "Unify non-Apple gift card processing as Instant for new parsing and edits while preserving Apple and funds workflows. Add multi-brand pricing rule selection and poster Code or Physical quick selection with remembered preferences. Existing published quotes require re-parsing, review and synchronization. Includes regression-tested portable updater.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261016-093750/Quote-Manager-Portable-20261016-093750.zip",
+  "sha256": "ab092fc435aaac45afd6231e7a270c89be8622626236b13a45829f372987df24",
+  "size": 69288368
 }
