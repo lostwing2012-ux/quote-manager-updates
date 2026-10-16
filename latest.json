@@ -1,8 +1,8 @@
 {
-  "version": "20261016-093750",
-  "published_at": "2026-10-16T01:40:20Z",
-  "release_notes": "Unify non-Apple gift card processing as Instant for new parsing and edits while preserving Apple and funds workflows. Add multi-brand pricing rule selection and poster Code or Physical quick selection with remembered preferences. Existing published quotes require re-parsing, review and synchronization. Includes regression-tested portable updater.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261016-093750/Quote-Manager-Portable-20261016-093750.zip",
-  "sha256": "ab092fc435aaac45afd6231e7a270c89be8622626236b13a45829f372987df24",
-  "size": 69288368
+  "version": "20261016-210812",
+  "published_at": "2026-10-16T19:24:21Z",
+  "release_notes": "Fix overlay brand multiselect layout and normalize legacy gift-card speeds in current posters and search while preserving history and disabled quotes.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261016-210812/Quote-Manager-Portable-20261016-210812.zip",
+  "sha256": "9de94c4ebaf820f844c4b29a4f76738c3c10459b7c36ba94e7c0b9efac202c1e",
+  "size": 69292298
 }
