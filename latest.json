@@ -1,8 +1,8 @@
 {
-  "version": "20261016-210812",
-  "published_at": "2026-10-16T19:24:21Z",
-  "release_notes": "Fix overlay brand multiselect layout and normalize legacy gift-card speeds in current posters and search while preserving history and disabled quotes.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261016-210812/Quote-Manager-Portable-20261016-210812.zip",
-  "sha256": "9de94c4ebaf820f844c4b29a4f76738c3c10459b7c36ba94e7c0b9efac202c1e",
-  "size": 69292298
+  "version": "20261105-211600",
+  "published_at": "2026-11-05T13:25:48Z",
+  "release_notes": "Admin-configured service connections, independent sync status and optional intranet HTTPS deployment.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-211600/Quote-Manager-Portable-20261105-211600.zip",
+  "sha256": "44b882d67f7f9bde6dd513f170ca706bc58035f294799d24aa263a944ed71f9e",
+  "size": 68526370
 }
