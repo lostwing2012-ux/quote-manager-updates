@@ -1,8 +1,8 @@
 {
-  "version": "20261105-214100",
-  "published_at": "2026-11-05T13:43:22Z",
-  "release_notes": "Verify supplier codes against the connected directory before publishing and improve connection feedback.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-214100/Quote-Manager-Portable-20261105-214100.zip",
-  "sha256": "d68ad205e6a04897e4fb1ef91931c8cf2f58e7835d8e73231a2c689054bdc3b1",
-  "size": 68532420
+  "version": "20261105-214453",
+  "published_at": "2026-11-05T16:19:28Z",
+  "release_notes": "Clearer action, connection and update feedback throughout the app, with protection against repeated submissions.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-214453/Quote-Manager-Portable-20261105-214453.zip",
+  "sha256": "de37813bab83bf4cf8b82f0ecad6c503ae483a42bd83f3728c5b3c312721aef6",
+  "size": 68538237
 }
