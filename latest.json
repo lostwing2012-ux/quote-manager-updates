@@ -1,8 +1,8 @@
 {
-  "version": "20261105-211600",
-  "published_at": "2026-11-05T13:25:48Z",
-  "release_notes": "Admin-configured service connections, independent sync status and optional intranet HTTPS deployment.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-211600/Quote-Manager-Portable-20261105-211600.zip",
-  "sha256": "44b882d67f7f9bde6dd513f170ca706bc58035f294799d24aa263a944ed71f9e",
-  "size": 68526370
+  "version": "20261105-214100",
+  "published_at": "2026-11-05T13:43:22Z",
+  "release_notes": "Verify supplier codes against the connected directory before publishing and improve connection feedback.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-214100/Quote-Manager-Portable-20261105-214100.zip",
+  "sha256": "d68ad205e6a04897e4fb1ef91931c8cf2f58e7835d8e73231a2c689054bdc3b1",
+  "size": 68532420
 }
