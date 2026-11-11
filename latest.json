@@ -1,8 +1,8 @@
 {
-  "version": "20261105-214453",
-  "published_at": "2026-11-05T16:19:28Z",
-  "release_notes": "Clearer action, connection and update feedback throughout the app, with protection against repeated submissions.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261105-214453/Quote-Manager-Portable-20261105-214453.zip",
-  "sha256": "de37813bab83bf4cf8b82f0ecad6c503ae483a42bd83f3728c5b3c312721aef6",
-  "size": 68538237
+  "version": "20261111-230725",
+  "published_at": "2026-11-11T15:25:04Z",
+  "release_notes": "Quote Manager: preserve login protection across restarts and password resets; apply new passwords immediately; prevent duplicate launchers from changing credentials; keep deployment documentation.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261111-230725/Quote-Manager-Portable-20261111-230725.zip",
+  "sha256": "6c6bda9db12b70e32dc54a02927653ab07995efe3b12fa1856be1a2bdeb4ff08",
+  "size": 69324371
 }
