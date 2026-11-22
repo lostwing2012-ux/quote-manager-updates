@@ -1,8 +1,8 @@
 {
-  "version": "20261122-142759",
-  "published_at": "2026-11-22T06:32:04Z",
-  "release_notes": "Review and customer quote search now recognize supplier shorthand, card formats, processing methods and denominations. Show applicable offers and flag missing format information.",
-  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261122-142759/Quote-Manager-Portable-20261122-142759.zip",
-  "sha256": "4915a67ef4de965948555265e77ac62605a775b94930910688c309362eb3964b",
-  "size": 69334227
+  "version": "20261122-150439",
+  "published_at": "2026-11-22T07:22:41Z",
+  "release_notes": "Customer search marks previous prices after a failed local publication and checks the latest result before copying a quote. Supplier ID validation is enforced.",
+  "download_url": "https://github.com/lostwing2012-ux/quote-manager-updates/releases/download/v20261122-150439/Quote-Manager-Portable-20261122-150439.zip",
+  "sha256": "1acca649ead042cc0e4ae693573d72b320add7ca45726630f6d0743ecbf151ae",
+  "size": 69341189
 }
